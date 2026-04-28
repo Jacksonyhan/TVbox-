@@ -1,0 +1,1806 @@
+#EXTM3U
+#EXTINF:-1 group-title="World News",ABC News US
+http://41.205.93.154/ABC/index.m3u8
+
+
+#EXTINF:-2 group-title="World News" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News Asia Pacific (720p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+
+#EXTINF:-3 group-title="World News" tvg-logo="https://i.imgur.com/SjTdhvJ.png",CTV News CA
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-3 group-title="World News" tvg-logo="",CNBC
+http://41.205.93.154/CNBC/index.m3u8
+
+
+#EXTINF:-3 group-title="World News" tvg-logo="",NBC
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-3 group-title="World News" tvg-logo="",City News
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-4 group-title="World News",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-4 group-title="World News",CBS News1
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
+#EXTINF:-4 group-title="World News",ＢＢＣ　１
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/542826.ts
+#EXTINF:-5 group-title="World News",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-6 group-title="World News",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
+#EXTINF:-7 group-title="World News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700011IF_20231129T022404SQUARE.png_20231129022405.png",NBC News NOW
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#EXTINF:-8 group-title="World News",SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-9 group-title="World News",Ａl Ｊazeera
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-9 group-title="World News",Iran　Ｉｎｔｅｒｎａｔｉｏｎａｌ
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-10 group-title="World News",FOX　NEWS
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-12 group-title="World News", Newsmax１
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+
+#EXTINF:-12 group-title="World News",Newsmax２
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u
+
+#EXTINF:-12 group-title="World News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-12 group-title="World News",CNA Globe News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-13 group-title="World News" tvg-logo="",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
+#EXTINF:-13 group-title="World News" tvg-logo="",CNN World
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
+#EXTINF:-14 group-title="World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World Japan (1080p)
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+
+#EXTINF:-15 group-title="World News",Ｒｕｓｓｉｏｎ　ＮＥＷＳ
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-15 group-title="World News",DW English 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-16 group-title="World News",India Today EN
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-17 group-title="World News" tvg-logo="https://i.imgur.com/SfcZyqm.png",Taiwan Plus TV
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-18 group-title="World News",arirang WORLD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-18 group-title="World News",arirang WORLD１
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-18 group-title="World News",arirang WORLD2
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+
+#EXTINF:-19 group-title="World News",Africanews
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
+
+#EXTINF:-20 group-title="World News" tvg-logo="",EuroNewsLive
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+
+#EXTINF:-20 group-title="World News" tvg-logo="",Wion India
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+#EXTINF:-20 group-title="World News" tvg-logo="",Wion India
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+#EXTINF:-20 group-title="World News" tvg-logo="",Yahoo Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-20 group-title="World News" tvg-logo="",Yahoo Finance
+https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-20 group-title="World News" tvg-logo="",Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-28 group-title="World News" , bloomberg-Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-21 group-title="World News" tvg-logo="https://live/fanmingming.com/tv/CGTN.png",CCTV+ CGTN
+https://0472.org/hls/cgtn.m3u8
+
+#EXTINF:-22 group-title="World News" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13 新闻0
+http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+
+
+#EXTINF:-22 group-title="World News" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13 新闻00
+http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合00
+http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合0000
+http://rihou.cc:555/tv/[Pd]央视综合
+
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合0
+http://23.237.228.134/live5/CCTV1.m3u8
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合1
+https://bc.188766.xyz/?ip=&mishitong=true&lunbo=false&mima=mianfeibuhuaqian
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合2
+http://23.237.228.134/live5/CCTV1.m3u8
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合3
+http://iptv.4666888.xyz/iptv2A.php?id=7
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 财经
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 财经1
+http://iptv.4666888.xyz/iptv2A.php?id=８
+#EXTINF:-58 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3 综艺
+http://23.237.228.134/live5/CCTV3.m3u8
+
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-3 综艺1
+http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009
+
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-3  综艺2
+http://23.237.228.134/live5/CCTV3.m3u8
+#EXTINF:-56 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-3  综艺３
+http://iptv.4666888.xyz/iptv2A.php?id=９
+
+#EXTINF:-59 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际
+https://migu.188766.xyz/?migutoken=178c143a5e206f466e58de2f6698eb1c&id=CCTV4&type=yy
+#EXTINF:-59 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际1
+http://23.237.228.134/live5/CCTV4.m3u8
+#EXTINF:-59 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4 中文国际２
+http://iptv.4666888.xyz/iptv2A.php?id=１０
+
+#EXTINF:-60 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育
+https://migu.188766.xyz/?migutoken=db2a8f827abedfb8bd1ba3f4fc0e7ba4&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+
+#EXTINF:-60 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5 体育1
+http://23.237.228.134/live5/CCTV5.m3u8
+
+#EXTINF:-60 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5+ 体育
+https://migu.188766.xyz/?migutoken=ffb14128dbcab1611486aefb94b63f08&id=CCTV6&type=yy
+
+
+#EXTINF:-61-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+
+#EXTINF:-61-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6 电影1
+http://23.237.228.134/live5/CCTV6.m3u8
+#EXTINF:-62 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV-7 国防
+http://23.237.228.134/live5/CCTV7.m3u8
+
+
+#EXTINF:-61-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-7 国防1
+http://183.250.156.180:9999/newlive/live/hls/８/live.m3u8
+
+#EXTINF:-63 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8 电视剧
+http://23.237.228.134/live5/CCTV8.m3u8
+#EXTINF:-63 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8 电视剧1
+http://183.250.156.180:9999/newlive/live/hls/９/live.m3u8
+
+#EXTINF:-64 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9 纪录
+http://23.237.228.134/live5/CCTV9.m3u8
+#EXTINF:-64 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9 纪录１
+http://183.250.156.180:9999/newlive/live/hls/1０/live.m3u8
+
+#EXTINF:-65 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10 科教
+http://23.237.228.134/live5/CCTV10.m3u8
+
+#EXTINF:-64 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-10 科教１
+http://183.250.156.180:9999/newlive/live/hls/1１/live.m3u8
+
+#EXTINF:-66 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11 戏曲
+http://23.237.228.134/live3/CCTV11.m3u8
+
+
+#EXTINF:-66 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11 戏曲１
+http://183.250.156.180:9999/newlive/live/hls/1２/live.m3u8
+
+#EXTINF:-67 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV-12 社会与法
+http://23.237.228.134/live3/CCTV12.m3u8
+
+#EXTINF:-67 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV-12 社会与法１
+http://183.250.156.180:9999/newlive/live/hls/1３/live.m3u8
+
+#EXTINF:-67 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13 新闻1
+http://153.0.169.80:888/hls/13/index.m3u8
+#EXTINF:-67 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13 新闻2
+http://221.7.49.226:50085/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-67 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13 新闻3
+http://23.237.228.134/live3/CCTV13.m3u8
+
+
+#EXTINF:-68 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14 少儿
+http://111.43.126.240:9003/hls/27/index.m3u8
+#EXTINF:-68 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14 少儿２
+http://iptv.4666888.xyz/iptv2A.php?id=１２
+
+#EXTINF:-68 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14 少儿1
+http://183.250.156.180:9999/newlive/live/hls/1５/live.m3u8
+#EXTINF:-69 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15 音乐
+http://183.250.156.180:9999/newlive/live/hls/1６/live.m3u8
+
+#EXTINF:-68 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-15 音乐１
+
+
+EXTINF:-60 group-title="卫视",奥林匹克CCTV16
+http://23.237.228.134/live3/CCTV16.m3u8
+#EXTINF:-25 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16 奥林匹克1
+http://183.250.156.180:9999/newlive/live/hls/1７/live.m3u8
+
+
+
+#EXTINF:-69 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 农业
+http://23.237.228.134/live3/CCTV17.m3u8
+
+#EXTINF:-69 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17 农业1
+http://183.250.156.180:9999/newlive/live/hls/1８/live.m3u8
+#EXTINF:-69 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV4k.png",CCTV-4k
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+#EXTINF:-69 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV8k.png",CCTV-8k
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+
+
+
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+http://iptv.4666888.xyz/iptv2A.php?id=13
+
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://iptv.4666888.xyz/iptv2A.php?id=14
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
+http://iptv.4666888.xyz/iptv2A.php?id=15
+
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
+http://iptv.4666888.xyz/iptv2A.php?id=16
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
+http://iptv.4666888.xyz/iptv2A.php?id=17
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/gdｗｓ.png",广东卫视
+http://iptv.4666888.xyz/iptv2A.php?id=18
+
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视1
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/gdｗｓ.png",甘肃卫视
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/gdｗｓ.png",江西卫视
+http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路116』#http://39.164.180.36:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4『线路113』#http://8.138.7.223/tv/dl/careryun.php?id=27$LR•IPV4『线路99』#http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路163』
+
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",陕西卫视
+http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+
+#EXTINF:-69 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png",河南卫视
+http://1.94.31.214/php/hntv.php?id=hnws#http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8#http://8.138.7.223/tv/dl/careryun.php?id=38$LR•IPV4『线路77』#http://218.89.240.144:59901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路131』#http://222.169.85.8:9901/tsfile/live/0139_1.m3u8
+
+
+
+#EXTINF:-23 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png", CCTV5 源00
+http://23.237.228.134/live5/CCTV5.m3u8
+
+
+
+
+#EXTINF:-23 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png", CCTV5 源000
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-23 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png", CCTV5 源0000
+http://110.241.188.75:808/hls/5/index.m3u8
+
+#EXTINF:-23 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png", CCTV5 源0
+https://migu.188766.xyz/?migutoken=956b74698450fd0f9d3cedae07700bba&id=CCTV5&type=yy
+
+#EXTINF:-23 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png", CCTV5 源1
+http://1.24.39.180:9003/hls/5/index.m3u8
+
+#EXTINF:-23 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png", CCTV5 源2
+http://gaoyitv.6600.org:9901/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+
+#EXTINF:-24 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+ 源000
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+
+#EXTINF:-24 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+ 源00
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-24 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+ 源0
+http://23.237.228.134/live5/CCTV5p.m3u8
+
+#EXTINF:-24 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+ 源2
+http://1.24.39.180:9003/hls/5p/index.m3u8
+
+#EXTINF:-24 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+ 源1
+https://migu.188766.xyz/?migutoken=113d1bc1010a3a1792cc8897fbc356c2&id=CCTV5p&type=yy
+
+#EXTINF:-24 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+ 源4
+http://smart.cityq.xyz:8278/cctv5plus/playlist.m3u8?tid=MBBB3644683836446838&ct=20241&tsum=61c5791ef7caa6174ca8935662423098
+#EXTINF:-24 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+ 源5
+http://74.91.26.218:82/live/cctv5p.m3u8
+
+
+
+#EXTINF:-25 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-25 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克1
+http://183.250.156.180:9999/newlive/live/hls/17/live.m3u8
+
+#EXTINF:-26 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-26 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育1
+http://iptv.4666888.xyz/iptv2A.php?id=20
+#EXTINF:-26 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育2
+http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-26 group-title="Sports" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育3
+http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",天津体育台
+http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",五星体育
+http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
+#EXTINF:-26 group-title="Sports" tvg-logo="",五星体育1
+http://58.35.95.16:9898/rtp/233.18.204.58:5140
+#EXTINF:-26 group-title="Sports" tvg-logo="",五星体育2
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+#EXTINF:-26 group-title="Sports" tvg-logo="",五星体育3
+http://120.253.150.222:50312/tsfile/live/1031_1.m3u8?key=txiptv
+#EXTINF:-26 group-title="Sports" tvg-logo="",劲爆体育
+http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",澳门体育0
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",澳门体育
+http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",澳门体育1
+http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",风云足球
+http://111.61.236.247:9081/hls/58/index.m3u8
+
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",BBC2
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",Bein Sports 1
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+#EXTINF:-26 group-title="Sports" tvg-logo="",Bein Sports 2
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+#EXTINF:-26 group-title="Sports" tvg-logo="",Bein Sports 3
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",Bein Sports 4
+https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+#EXTINF:-26 group-title="Sports" tvg-logo="",Bein Sports 5
+https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",Star Sports 1 HD 
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",Ｓｋｙ　Ｓｐｏｒｔ　Ｍａｉｎ　Ｅｖｅｎｔｓ
+https://a1xs.vip/2000001
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",皇马MRTV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",SPOTV2
+https://hls.iill.top/api/Spotv-2/index.m3u8
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",Ｓｋｙ　Ｓｐｏｒｔ　Ａｃｔｉｏｎ
+https://a1xs.vip/2000011
+#EXTINF:-26 group-title="Sports" tvg-logo="",Ｓｋｙ　Ｓｐｏｒｔ　Premier
+https://7pal.short.gy/ssportspl
+#EXTINF:-26 group-title="Sports" tvg-logo="",Ｓｋｙ　Ｓｐｏｒｔ　ｆｏｏｔｂａｌｌ
+https://7pal.short.gy/ssportsfb
+#EXTINF:-26 group-title="Sports" tvg-logo="",Ｓｋｙ　Ｓｐｏｒｔ　Ｇｏｌｆ
+https://7pal.short.gy/ssportsgf
+#EXTINF:-26 group-title="Sports" tvg-logo="",Ｓｐｏｒｔｎｅｔ　Ｗｏｒｌｄ
+https://a1xs.vip/6000013
+#EXTINF:-26 group-title="Sports" tvg-logo="",ＮＦＬ　ＴＶ
+https://7pal.short.gy/nflnw
+#EXTINF:-26 group-title="Sports" tvg-logo="",Ｐｒｅｍｉｅｒ　１
+https://7pal.short.gy/HPremier1
+#EXTINF:-26 group-title="Sports" tvg-logo="",Ｐｒｅｍｉｅｒ　２
+https://7pal.short.gy/prsport2
+#EXTINF:-26 group-title="Sports" tvg-logo="",TNT　Sportｓ１
+https://7pal.short.gy/tntspts1
+#EXTINF:-26 group-title="Sports" tvg-logo="",TNT　Sportｓ２
+https://7pal.short.gy/tntspts２
+#EXTINF:-26 group-title="Sports" tvg-logo="",TNT　Sportｓ３
+https://7pal.short.gy/tntspts３
+#EXTINF:-26 group-title="Sports" tvg-logo="",TNT　Sportｓ４
+https://7pal.short.gy/tntspts４
+#EXTINF:-26 group-title="Sports" tvg-logo="",Teｎｎｉｓ　ｎｅｔｗｏｒｋ
+https://7pal.short.gy/tennisc
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",Ｎｏｗ　Ｓｐｏｒｔｓ　－　Premier
+https://7pal.short.gy/nowhkp3
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",Red Bull TV１
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",Red Bull TV２
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",Bein Sports Xtra
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",博斯运动2
+http://smart.cityq.xyz:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",博斯运动1
+http://iptv.4666888.xyz/iptv2A.php?id=6
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",爱尔达体育1
+http://smart.cityq.xyz:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+
+
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",智林体育
+http://152.32.229.52:5050/4gtv-4gtv101/index.m3u8?proxy=true
+
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",智林体育1
+http://iptv.4666888.xyz/iptv2A.php?id=5
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",纬来体育HD
+http://205.185.120.57:8081/channel/n66328150/index.m3u8
+
+
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",SPORTSTV 1
+http://104.250.128.34/livehttpplay?channel_id=23537
+#EXTINF:-26 group-title="Sports" tvg-logo="",SPORTSTV 2
+http://104.250.128.34/livehttpplay?channel_id=23538
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",SPO Sports
+http://iptv.4666888.xyz/iptv2A.php?id=1
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",SPO Sports２
+http://iptv.4666888.xyz/iptv2A.php?id=2
+#EXTINF:-26 group-title="Sports" tvg-logo="",SPO Sports２－１
+http://iptv.4666888.xyz/iptv2A.php?id=5７
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",SPO Sports２－２
+http://iptv.4666888.xyz/iptv2A.php?id=5８
+
+#EXTINF:-26 group-title="Sports" tvg-logo="",TNT　Sportｓ
+http://iptv.4666888.xyz/iptv2A.php?id=3
+#EXTINF:-26 group-title="Sports" tvg-logo="",Astro Sports
+http://iptv.4666888.xyz/iptv2A.php?id=4
+
+#EXTINF:-26 group-title="Sports",Foxsports-02
+https://tvpass.org/live/FoxSports2/hd
+
+#EXTINF:-26 group-title="Sports",Foxsports-1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-26 group-title="Sports",Fox Sports 1 SD
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21592.ts
+
+#EXTINF:-26 group-title="Sports",Fox Sports 2 SD
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/21593.ts
+
+
+#EXTINF:-26 group-title="Sports",Foxsports-2
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
+
+#EXTINF:-26 group-title="Sports",NBA　TV
+https://tvpass.org/live/NBATV/
+#EXTINF:-26 group-title="Sports",ESPN　Ｄｅｐｏｒｔｅｓ
+https://tvpass.org/live/espn-deportes/sd
+
+#EXTINF:-26 group-title="Sports", NBC sports
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-26 group-title="Sports", CBS sports
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-26 group-title="Sports", Trace Sport
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+
+
+#EXTINF:-26 group-title="Sports",Now Sports
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+
+#EXTINF:-26 group-title="Sports",NOW　Sportｓ　Prime
+
+http://rihou.cc:555/tv/[Mt]Now体育
+
+#EXTINF:-26 group-title="Sports",NOW英超1台,
+http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+
+#EXTINF:-26 group-title="Sports",NOW　Sportｓ　Prime２
+https://7pal.short.gy/nowhkp2
+
+#EXTINF:-26 group-title="Sports",NOW体育3
+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+
+
+
+#EXTINF:-26 group-title="Sports",NOW体育5
+
+http://vocotv.pro:80/live/robins/robins/715562.m3u8
+
+#EXTINF:-26 group-title="Sports",NOW体育6
+
+http://vocotv.pro:80/live/robins/robins/715561.m3u8
+
+#EXTINF:-26 group-title="Sports",NOW体育7
+
+http://vocotv.pro:80/live/robins/robins/715568.m3u8
+
+#EXTINF:-26 group-title="Sports",NOW体育4
+
+http://vocotv.pro:80/live/robins/robins/715563.m3u8
+
+#EXTINF:-26 group-title="Sports",NOW体育2
+
+http://vocotv.pro:80/live/robins/robins/715565.m3u8
+
+#EXTINF:-26 group-title="Sports",NOW体育7
+
+http://vocotv.pro:80/live/robins/robins/715560.m3u8
+
+
+#EXTINF:-26 group-title="Sports", SportsGrid1
+
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-26 group-title="Sports",Sportsgrid2
+
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-26 group-title="Sports",SportsGrid3
+
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports F1
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2190.ts
+
+#EXTINF:-26 group-title="Sports",SKY SPORTS F1 UK
+
+http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7342/index.m3u8
+
+#EXTINF:-26 group-title="Sports",SKY SPORTS F1 UK
+
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/7342/index.m3u8
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports MIX
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2180.ts
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Golf
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2187.ts
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports News
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2183.ts
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports F1 HD
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Action
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2195.ts
+
+#EXTINF:-26 group-title="Sports",Sky Sports Main Event
+
+https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo&checkedby:iptvcat.com
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Golf HD
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2186.ts
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports News HD
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2179.ts
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Cricket
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2192.ts
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Arena HD
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2193.ts
+
+#EXTINF:-26 group-title="Sports",UK - Sky Sports Golf HD
+
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Action HD
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2194.ts
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Cricket HD
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2191.ts
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Main Events
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2185.ts
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Football HD
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2188.ts
+
+#EXTINF:-26 group-title="Sports",Sky Sports Premier League
+
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-26 group-title="Sports",SKY SPORTS PREMIER LEAGUE
+
+https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Main Events HD
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2184.ts
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Premier League
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
+
+#EXTINF:-26 group-title="Sports",UK - Sky Sports Main Event UHD
+
+https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo&checkedby:iptvcat.com
+
+#EXTINF:-26 group-title="Sports",UK Sky Sports Premier League HD
+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2181.ts
+
+
+
+#EXTINF:-26 group-title="Sports",SKY SPORTS F1 UK
+
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7342/index.m3u8
+
+
+
+#EXTINF:-26 group-title="Sports",Sportstv
+
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-26 group-title="Sports",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-26 group-title="Sports",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-26 group-title="Sports",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-27 group-title="Sports",Strongman Champion League 
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-27 group-title="Sports",SKY SPORTS Cricket
+http://nocable.cc:8080//OURTV/OURTV@4806/45940
+
+#EXTINF:-27 group-title="Sports",Sky Sports Racing (Australia)
+https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
+#EXTINF:-27 group-title="Sports",Sky Sports Tab News (Australia)
+https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
+
+#EXTINF:-27-1 group-title="Sports" ,ESPN
+http://41.205.93.154/ESPN/index.m3u8
+
+#EXTINF:-27-1 group-title="Sports" ,ESPN２
+https://7pal.short.gy/espn2
+
+#EXTINF:-27-1 group-title="Sports" ,ESPN　ｕｓ
+https://7pal.short.gy/espnｕｓ
+#EXTINF:-27-1 group-title="Sports" , FightNetwork
+
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
+
+#EXTINF:-29 group-title="Au TV", 2GB 
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+
+#EXTINF:-29 group-title="Au TV", ６PR　Perth 
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+
+#EXTINF:-30 channel-id="sky-news-now-Sydney" tvg-id="mjh-sky-news-now-Sydney" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="Au TV" , Sky News Now Sydney
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+
+#EXTINF:-31 channel-id="mjh-seven-syd" tvg-id="mjh-seven-syd" tvg-logo="https://i.mjh.nz/.images/seven-syd.png" tvg-chno="7" group-title="Au TV" , Seven
+https://i.mjh.nz/.r/seven-syd.m3u8
+
+
+#EXTINF:-32 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="Au TV" , ABC NEWS
+https://c.mjh.nz/abc-news.m3u8
+
+
+#EXTINF:-33 channel-id="mjh-sbs" tvg-id="mjh-sbs" tvg-logo="https://i.mjh.nz/.images/sbs.png" tvg-chno="3" group-title="Au TV" , SBS
+https://i.mjh.nz/.r/sbs-sbst.m3u8
+
+
+#EXTINF:-34 channel-id="mjh-channel-9-nsw" tvg-id="mjh-channel-9-nsw" tvg-logo="https://imageresizer.static9.net.au/MFJ65H8J3Itwr7-HcHQxr-jBssc=/768x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="9" group-title="Au TV" , Channel 9
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8
+
+#EXTINF:-35 channel-id="mjh-10-nsw" tvg-id="mjh-10-nsw" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10" group-title="Au TV" , Channel 10
+https://i.mjh.nz/.r/10-nsw.m3u8
+
+#EXTINF:-28 group-title="Au TV" , Sky Racing1
+https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
+
+#EXTINF:-28 group-title="Au TV" , Sky Racing2
+https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+
+
+#EXTINF:-28 group-title="Au TV" , bloomberg-au
+https://bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-36 group-title="HK频道" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
+
+#EXTINF:-60 group-title="HK频道",凤凰卫视１
+http://iptv.4666888.xyz/iptv2A.php?id=２７
+#EXTINF:-36 group-title="HK频道" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯 
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
+
+#EXTINF:-37 group-title="HK频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-38 group-title="HK频道",翡翠台 源1
+http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+#EXTINF:-38 group-title="HK频道",翡翠台 源2
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+
+#EXTINF:-38 group-title="HK频道",翡翠台  源3
+https://live.cdn.com.mp/live/fct/stream.m3u8
+
+#EXTINF:-38 group-title="HK频道",RHK３１
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
+#EXTINF:-38 group-title="HK频道",RHK３１
+http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-38 group-title="HK频道",RHK３１
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
+#EXTINF:-38 group-title="HK频道",RHK３2
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+#EXTINF:-38 group-title="HK频道",Now NEWS
+http://cdn.163189.xyz/163189/now
+
+#EXTINF:-38 group-title="HK频道",Now 财经
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-38 group-title="HK频道",Now 直播
+http://hls.168.us.kg/u/333/master.m3u8
+#EXTINF:-38 group-title="HK频道",Now 新闻
+http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+
+#EXTINF:-38 group-title="HK频道",Now 财经1
+http://hls.168.us.kg/u/331/master.m3u8
+
+#EXTINF:-39 group-title="HK频道",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-39 group-title="HK频道",明珠台 源1
+https://cdn5.163189.xyz/live/mzt/stream.m3u8
+#EXTINF:-40 group-title="HK频道",TVB1
+http://iptv.4666888.xyz/iptv2A.php?id=25
+
+#EXTINF:-40 group-title="HK频道",TVB1
+http://php.jdshipin.com/smt.php?id=viusix_twn
+
+
+#EXTINF:-40 group-title="HK频道",无线新闻台 源1
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+#EXTINF:-40 group-title="HK频道",无线新闻台 源1
+http://vallest.uk/livehttpplay?channel_id=20123
+#EXTINF:-40 group-title="HK频道",无线新闻台 
+http://php.jdshipin.com:8880/iptv.php?id=hndy
+
+#EXTINF:-40 group-title="HK频道",凤凰卫视中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-40 group-title="HK频道",凤凰卫视资讯台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-40 group-title="HK频道",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-40 group-title="HK频道",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-40 group-title="HK频道",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-40 group-title="HK频道",翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-40 group-title="HK频道",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+
+#EXTINF:-40 group-title="HK频道",无线北美
+http://rihou.cc:555/tv/[PL]无线北美
+#EXTINF:-40 group-title="HK频道",无线xighe
+http://rihou.cc:555/tv/[PL]无线星贰
+
+http://rihou.cc:555/tv/[JR]青海卫视
+#EXTINF:-40 group-title="HK频道",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-40 group-title="HK频道",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-40 group-title="HK频道",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-40 group-title="HK频道",凤凰卫视中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-40 group-title="HK频道",凤凰卫视资讯台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+
+#EXTINF:-40 group-title="HK频道",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-40 group-title="HK频道",澳视卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-40 group-title="HK频道",无线翡翠
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-40 group-title="HK频道",无线翡翠
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-40 group-title="HK频道",无线华丽
+http://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-40 group-title="HK频道",无线华丽
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+#EXTINF:-40 group-title="HK频道",无线星河
+http://php.jdshipin.com/smt.php?id=Xinhe
+#EXTINF:-40 group-title="HK频道",无线星河
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-40 group-title="HK频道",千禧经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-40 group-title="HK频道",美亚电影频粤
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-40 group-title="HK频道",重温经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+#EXTINF:-40 group-title="HK频道",Astro剧集
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+
+#EXTINF:-40 group-title="HK频道",无线翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-40 group-title="HK频道",无线华丽台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+#EXTINF:-40 group-title="HK频道",有线综合台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+#EXTINF:-40 group-title="HK频道",Astr剧集台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+#EXTINF:-40 group-title="HK频道",千禧经典台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+
+#EXTINF:-40 group-title="HK频道",Astro AOE
+https://o11.163189.xyz/stream/live/aec/
+
+#EXTINF:-40 group-title="HK频道",Astro AOE1
+http://rihou.cc:555/tv/[PL]Astroaod
+#EXTINF:-40 group-title="HK频道",八度空间
+http://rihou.cc:555/tv/[Pd]八度空间
+
+#EXTINF:-40 group-title="HK频道",Astro Family
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-40 group-title="HK频道",Astro Huanxi
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-40 group-title="HK频道",Astro Huanxi1
+http://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-40 group-title="HK频道",Astro AEC
+http://o11.163189.xyz/stream/live/aec/
+#EXTINF:-40 group-title="HK频道",Astro AOD
+http://o11.163189.xyz/stream/live/aod/
+#EXTINF:-40 group-title="HK频道",Astro AOD1
+http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+
+
+#EXTINF:-41 group-title="TW频道" tvg-logo="https://i.imgur.com/YxFRoft.png",澳亚卫视
+https://stream1.freetv.fun/ao-ya-wei-shi-1.ctv
+#EXTINF:-42 group-title="TW频道" tvg-logo="https://i.imgur.com/hkwcBM9.png",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-43 group-title="TW频道" tvg-logo="https://i.imgur.com/k28Kc3o.png",寰宇新闻
+http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+#EXTINF:-44 group-title="TW频道" tvg-logo="https://i.imgur.com/kFMHayP.png",Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+
+#EXTINF:-45 group-title="TW频道" tvg-logo="",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+
+#EXTINF:-46 group-title="TW频道" tvg-logo="https://i.imgur.com/171lwfg.png",TVBS Newｓ
+http://iptv.4666888.xyz/iptv2A.php?id=4３
+
+#EXTINF:-47 group-title="TW频道" tvg-logo="https://i.imgur.com/QFZs80p.png",EBC News 東森新聞台
+http://nmk.ioapk.com:5050/4gtv-4gtv153/index.m3u8?proxy=true
+
+#EXTINF:-47 group-title="TW频道" tvg-logo="https://i.imgur.com/QFZs80p.png",EBC News 東森新聞台1
+http://nmk.ioapk.com:5050/li-4gtv-4gtv153/index.m3u8?proxy=true
+
+#EXTINF:-47 group-title="TW频道" tvg-logo="https://i.imgur.com/QFZs80p.png",EBC News 東森资讯台
+http://nmk.ioapk.com:5050/4gtv-4gtv152/index.m3u8?proxy=true
+
+#EXTINF:-47 group-title="TW频道" tvg-logo="https://i.imgur.com/QFZs80p.png",EBC News 東森资讯台1
+http://nmk.ioapk.com:5050/li-4gtv-4gtv152/index.m3u8?proxy=true
+#EXTINF:-47 group-title="TW频道" tvg-logo="https://i.imgur.com/QFZs80p.png",EBC News 東森美洲台
+http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
+
+#EXTINF:-47 group-title="TW频道" tvg-logo="https://i.imgur.com/QFZs80p.png",EBC News 東森美洲台1
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+
+
+#EXTINF:-47 group-title="TW频道" tvg-logo="https://i.imgur.com/QFZs80p.png",ETRV中国
+http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
+#EXTINF:-47 group-title="TW频道" tvg-logo="https://i.imgur.com/QFZs80p.png",超视
+http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+#EXTINF:-47 group-title="TW频道" tvg-logo="https://i.imgur.com/QFZs80p.png",超视
+https://stream1.freetv.fun/41abf308e03f0e00cf97633b2892d5477b3329bae64920ad101c87398baf61a6.m3u8
+
+#EXTINF:-60 group-title="Movies",华艺中文
+http://iptv.4666888.xyz/iptv2A.php?id=３７
+
+#EXTINF:-48 group-title="TW频道",台视新闻源1
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-48 group-title="TW频道",台视新闻源1
+http://222.128.55.152:9080/live/ts.m3u8
+#EXTINF:-48 group-title="TW频道",台视新闻源3
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top$订阅源-1920x1080
+#EXTINF:-48 group-title="TW频道",台视新闻 源2
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+https://stream1.freetv.fun/3e712c7facb3dbae8eebf29e560978e03f3711827b09e8a4f2ae7f346673716f.m3u8
+#EXTINF:-49 group-title="TW频道",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+https://stream1.freetv.fun/846fce6436c6f423e4866200afa0d39dd1485d52a98b38e21e165d0ed5f4c372.m3u8
+#EXTINF:-50 group-title="TW频道",中旺电视
+http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
+#EXTINF:-51 group-title="TW频道",海峡卫视
+http://38.64.72.148/hls/modn/list/4009/chunklist1.m3u8
+http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-52 group-title="TW频道" tvg-logo="https://i.imgur.com/fEUmRST.png",中天新闻
+http://222.128.55.152:9080/live/fc.m3u8
+#EXTINF:-53 group-title="TW频道" tvg-logo="https://i.imgur.com/Q1Mrvjj.png",Global News
+
+#EXTINF:-54 group-title="TW频道" tvg-logo="https://i.imgur.com/NaOUWKf.png",三立新闻
+http://122.117.71.103:8542/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+#EXTINF:-55 group-title="TW频道" tvg-logo="",年代新闻
+https://stream1.freetv.fun/517c64a9bdf7c9970fe1d047628171b825ead65650ae2e88293ca4d95b3a9cc2.ctv
+#EXTINF:-55 group-title="TW频道" tvg-logo="",非凡新闻
+http://iptv.4666888.xyz/iptv2A.php?id=４４
+#EXTINF:-55 group-title="TW频道" tvg-logo="",大立TV
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+
+#EXTINF:-60 group-title="其他频道",HISTORY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+#EXTINF:-60 group-title="其他频道",HISTORY CA
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3099.ts
+#EXTINF:-60 group-title="其他频道",AnimalPlanet
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=926204
+#EXTINF:-60 group-title="其他频道",Animal Planet
+http://41.205.93.154/ANIMALPLANET/index.m3u8
+#EXTINF:-60 group-title="其他频道",Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-60 group-title="其他频道",HISTORY Hit
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-60 group-title="其他频道",Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-60 group-title="其他频道",WildEarth
+https://amg01290-wildearthmediap-wildearth-klowdtv-3u0s9.amagi.tv/playlist/amg01290-wildearthmediap-wildearth-klowdtv/playlist.m3u8
+
+#EXTINF:-60 group-title="其他频道",BBC EARTH
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
+
+
+#EXTINF:-60 group-title="其他频道",Wild EARTH
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-60 group-title="其他频道",Adventure Earth
+https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-60 group-title="其他频道",National Geographic Wild
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-60 group-title="其他频道",Discovery 
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-60 group-title="其他频道",Discovery 中文
+https://hls.iill.top/api/Discovery/index.m3u8
+
+#EXTINF:-15 group-title="其他频道",Ｒｕｓｓｉｏｎ　Doc
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+
+#EXTINF:-60 group-title="其他频道",广东珠江
+http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+
+#EXTINF:-60 group-title="其他频道",广东珠江1
+http://iptv.4666888.xyz/iptv2A.php?id=19
+
+#EXTINF:-60 group-title="其他频道",广州新闻
+http://rihou.cc:555/tv/[Cx]广州新闻
+#EXTINF:-60 group-title="其他频道",广州综合
+http://rihou.cc:555/tv/[Cx]广州综合
+
+#EXTINF:-60 group-title="其他频道",rakutenviki
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-60 group-title="其他频道",K pop
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-60 group-title="其他频道",billiardstv
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-60 group-title="其他频道",Comedy Central HD 
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+
+#EXTINF:-60 group-title="其他频道",Nick/Comedy Central 
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+
+#EXTINF:-60 group-title="其他频道",CH5
+http://v2h.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+
+#EXTINF:-60 group-title="其他频道",CH5 -1
+
+http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+
+#EXTINF:-60 group-title="其他频道",CHU
+
+http://v2h.veryfast.filegear-sg.me/live/chu/stream.m3u8
+
+
+
+#EXTINF:-60 group-title="其他频道",CHU -1
+
+http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+#EXTINF:-60 group-title="其他频道",Nick toons
+https://a1xs.vip/100054
+
+#EXTINF:-60 group-title="Movies",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+
+#EXTINF:-60 group-title="Movies",My time Movies Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-60 group-title="Movies",SetOne
+http://smart.cityq.xyz:8278/SetOne/playlist.m3u8?tid=MD7D1616979216169792&ct=19249&tsum=228e9d46280149ba7ecfdce2acb28ad9
+
+#EXTINF:-60 group-title="Movies",HBO
+https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
+
+#EXTINF:-60 group-title="Movies",HBO　Ｃｏｍｅｄｙ
+https://tvpass.org/live/HBOComedyEast/sd
+#EXTINF:-60 group-title="Movies",HBO　Ｆａｍｉｌｙ
+https://tvpass.org/live/HBOFamilyEast/sd
+#EXTINF:-60 group-title="Movies",NOW Movie
+http://74.91.26.218:82/live/nowbg.m3u8
+
+
+#EXTINF:-60 group-title="Movies",discoverfilm
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-60 group-title="Movies",Movies Sphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-60 group-title="Movies", Star Movies
+http://66.90.99.154:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
+#EXTINF:-60 group-title="Movies", Pluto Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf930548ff9b00090d5686&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=500&terminate=false&userId=
+
+#EXTINF:-60 group-title="Movies",東森电影
+http://iptv.4666888.xyz/iptv2A.php?id=48
+
+#EXTINF:-60 group-title="Movies",東森电影1
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+
+
+
+#EXTINF:-60 group-title="Movies",靖洋戏剧
+http://iptv.4666888.xyz/iptv2A.php?id=４２
+#EXTINF:-60 group-title="Movies",緯來電影
+
+http://iptv.4666888.xyz/iptv2A.php?id=40
+#EXTINF:-60 group-title="Movies",龙华電影
+
+http://iptv.4666888.xyz/iptv2A.php?id=4５
+#EXTINF:-60 group-title="Movies",東森洋片
+
+http://iptv.4666888.xyz/iptv2A.php?id=45
+
+#EXTINF:-60 group-title="Movies",美亚电影(台)
+http://iptv.4666888.xyz/iptv2A.php?id=30
+
+#EXTINF:-60 group-title="Movies",ROCK电影
+http://iptv.4666888.xyz/iptv2A.php?id=50
+
+#EXTINF:-60 group-title="Movies",靖天电影
+http://iptv.4666888.xyz/iptv2A.php?id=5６
+#EXTINF:-40 group-title="Movies",重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
+#EXTINF:-60 group-title="Movies",IQIYI
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-60 group-title="Movies",IQIYI
+http://iptv.4666888.xyz/iptv2A.php?id=２１
+
+
+#EXTINF:-60 group-title="Movies",天映
+http://php.jdshipin.com/smt.php?id=Celestial
+
+#EXTINF:-60 group-title="Movies",天映-1
+http://php.jdshipin.com/smt.php?id=Celestial2
+
+#EXTINF:-60 group-title="Movies",天映CM+
+http://php.jdshipin.com/TVOD/iptv.php?id=aod
+
+#EXTINF:-60 group-title="Movies",CHC　ｄｚ
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-60 group-title="Movies",CHC　Jｔ１
+https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
+#EXTINF:-60 group-title="Movies",CHC　YM
+https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
+#EXTINF:-60 group-title="Movies",CHC　ｄｚ２
+https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+#EXTINF:-60 group-title="Movies",CHC　YM２
+http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
+#EXTINF:-60 group-title="Movies",CHC　ｄｚ２
+http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
+#EXTINF:-60 group-title="Movies",CHC　ｄｚ１
+http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
+
+#EXTINF:-60 group-title="Movies",CHC　ｊｔ
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+
+#EXTINF:-60 group-title="Movies",CHC　ＨＤ
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+#EXTINF:-60 group-title="Movies",风云音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+
+#EXTINF:-60 group-title="Movies",龙华电影
+http://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-60 group-title="Movies",龙华经典
+http://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-60 group-title="Movies",龙华经典
+https://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-60 group-title="Movies",龙华卡通
+http://cdn8.163189.xyz/163189/lhkt
+#EXTINF:-60 group-title="Movies",龙华偶像
+http://cdn8.163189.xyz/163189/lhox
+#EXTINF:-60 group-title="Movies",龙华偶像
+https://cdn8.163189.xyz/163189/lhox
+#EXTINF:-60 group-title="Movies",龙华日韩
+http://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-60 group-title="Movies",龙华日韩
+https://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-60 group-title="Movies",龙华戏剧
+http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-60 group-title="Movies",龙华戏剧
+https://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-60 group-title="Movies",龙华洋片
+http://cdn8.163189.xyz/163189/lhyp
+
+#EXTINF:-60 group-title="Movies",Astro Quanjia
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+#EXTINF:-60 group-title="Movies",Astro AEC
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+
+#EXTINF:-60 group-title="Movies",Astro AEC-1
+http://php.jdshipin.com/smt.php?id=AEC
+
+#EXTINF:-60 group-title="Movies",Astro AOD
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-60 group-title="Movies",Astro AOD-1
+http://php.jdshipin.com/smt.php?id=Aodhd
+
+#EXTINF:-60 group-title="Movies",younghollywood
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+
+#EXTINF:-60 group-title="Disney",Disney XD TV
+https://tvpass.org/live/DisneyXDEast/hd
+
+#EXTINF:-60 group-title="Disney",Disney JR TV
+https://tvpass.org/live/DisneyJuniorEast/hd
+
+#EXTINF:-60 group-title="Disney",Disney TV
+https://tvpass.org/live/DisneyChannelEast/hd
+
+
+#EXTINF:-60 group-title="Japen TV",ABC (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#EXTINF:-60 group-title="Japen TV",Animax (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-60 group-title="Japen TV",BS Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-60 group-title="Japen TV",BS Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-60 group-title="Japen TV",BS Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-60 group-title="Japen TV",BS Shochiku Tokyu (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+#EXTINF:-60 group-title="Japen TV",BS TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-60 group-title="Japen TV",BS TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:-60 group-title="Japen TV",Channel Ginga (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-60 group-title="Japen TV",CNNj (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF:-60 group-title="Japen TV",Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-60 group-title="Japen TV",Eisei Gekijo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-60 group-title="Japen TV",Family Gekijo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-60 group-title="Japen TV",Fishing Vision (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-60 group-title="Japen TV",Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-60 group-title="Japen TV",Fuji TV NEXT (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-60 group-title="Japen TV",Gaora Sports (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-60 group-title="Japen TV",Golf Network (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-60 group-title="Japen TV",Green Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+#EXTINF:-60 group-title="Japen TV",History Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-60 group-title="Japen TV",Home Drama Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF:-60 group-title="Japen TV",J Sports 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-60 group-title="Japen TV",J Sports 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-60 group-title="Japen TV",J Sports 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-60 group-title="Japen TV",J Sports 4 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-60 group-title="Japen TV",Jidaigeki Senmon (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+#EXTINF:-60 group-title="Japen TV",Kansai TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+#EXTINF:-60 group-title="Japen TV",Kayo Pops (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-60 group-title="Japen TV",Kids Station (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-60 group-title="Japen TV",LaLa TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+#EXTINF:-60 group-title="Japen TV",MBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-60 group-title="Japen TV",Mondo TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+#EXTINF:-60 group-title="Japen TV",Movie Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-60 group-title="Japen TV",MTV Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-60 group-title="Japen TV",Music Japan TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-60 group-title="Japen TV",National Geographic Japan (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-60 group-title="Japen TV",NHK BS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-60 group-title="Japen TV",NHK BSP4K (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-60 group-title="Japen TV",NHK E (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-60 group-title="Japen TV",NHK G (Osaka) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-60 group-title="Japen TV",NHK G (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-60 group-title="Japen TV",Nihon Eiga Senmon (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-60 group-title="Japen TV",Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-60 group-title="Japen TV",Nittele G Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-60 group-title="Japen TV",Sky A (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-60 group-title="Japen TV",Space Shower TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-60 group-title="Japen TV",Star 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-60 group-title="Japen TV",Star 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+#EXTINF:-60 group-title="Japen TV",Star 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+#EXTINF:-60 group-title="Japen TV",Sun TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-60 group-title="Japen TV",Tabi Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+#EXTINF:-60 group-title="Japen TV",TAKARAZUKA SKY STAGE (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+#EXTINF:-60 group-title="Japen TV",TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-60 group-title="Japen TV",TBS News (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+#EXTINF:-60 group-title="Japen TV",Toei Channel (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-60 group-title="Japen TV",Tokyo MX1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#EXTINF:-60 group-title="Japen TV",TV Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-60 group-title="Japen TV",TV Osaka (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+#EXTINF:-60 group-title="Japen TV",TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-60 group-title="Japen TV",WOWOW Cinema (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-60 group-title="Japen TV",WOWOW Live (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-60 group-title="Japen TV",WOWOW Prime (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-60 group-title="Japen TV",YTV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+
+#EXTINF:-60 group-title="World TV",DIRECTV SPORTS COLOMBIA HD
+http://104.250.128.34/livehttpplay?channel_id=23537
+
+#EXTINF:-60 group-title="World TV",DIRECTV SPORTS2 HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23538
+
+#EXTINF:-60 group-title="World TV",LOVE NATURE HD
+http://104.250.128.34/livehttpplay?channel_id=23555
+
+#EXTINF:-60 group-title="World TV",ESPN 4 HD
+http://104.250.128.34/livehttpplay?channel_id=23503
+
+#EXTINF:-60 group-title="World TV",Tigo sports costa rica
+http://104.250.128.34/livehttpplay?channel_id=23549
+
+#EXTINF:-60 group-title="World TV",TELECARIBE HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23534
+
+#EXTINF:-60 group-title="World TV",WIN SPORTS PREMIUM COL
+http://104.250.128.34/livehttpplay?channel_id=23542
+
+#EXTINF:-60 group-title="World TV",TIGO SPORTS HD PANAMÁ
+http://104.250.128.34/livehttpplay?channel_id=23726
+
+#EXTINF:-60 group-title="World TV",TNT SERIES HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23502
+
+#EXTINF:-60 group-title="World TV",FOX SPORTS HD ARGENTINA
+http://104.250.128.34/livehttpplay?channel_id=23713
+
+#EXTINF:-60 group-title="World TV",ESPN 2 LATIONAMERICA HD
+http://104.250.128.34/livehttpplay?channel_id=23511
+
+#EXTINF:-60 group-title="World TV",DIRECTV SPORTS FIGHT HD
+http://104.250.128.34/livehttpplay?channel_id=23540
+
+#EXTINF:-60 group-title="World TV",TIGO SPORTS HD BOLIVIA
+http://104.250.128.34/livehttpplay?channel_id=23725
+
+#EXTINF:-60 group-title="World TV",TELEAMAZONAS HD ECUADOR
+http://104.250.128.34/livehttpplay?channel_id=23525
+
+#EXTINF:-60 group-title="World TV",Discovery H&H SUR HD
+http://104.250.128.34/livehttpplay?channel_id=23661
+
+#EXTINF:-60 group-title="World TV",UNIVERTSAL CRIMEN HD
+http://104.250.128.34/livehttpplay?channel_id=23551
+
+#EXTINF:-60 group-title="World TV",UNIVERSAL PREMIER HD
+http://104.250.128.34/livehttpplay?channel_id=23522
+
+#EXTINF:-60 group-title="World TV",UNIVERSAL REALITY HD
+http://104.250.128.34/livehttpplay?channel_id=23520
+
+#EXTINF:-60 group-title="World TV",ESPN 3 HD ARGENTINA
+http://104.250.128.34/livehttpplay?channel_id=23711
+
+#EXTINF:-60 group-title="World TV",UNIVERSAL PREMIER HD
+http://104.250.128.34/livehttpplay?channel_id=23660
+
+#EXTINF:-60 group-title="World TV",FOXSPORTS 3 HD ARGENTINA
+http://104.250.128.34/livehttpplay?channel_id=23516
+
+#EXTINF:-60 group-title="World TV",AMERICA TV HD ARGENTINA
+http://104.250.128.34/livehttpplay?channel_id=23712
+
+#EXTINF:-60 group-title="World TV",TELEPACIFICO HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23533
+
+#EXTINF:-60 group-title="World TV",UNIVERSAL REALITY HD
+http://104.250.128.34/livehttpplay?channel_id=23653
+
+#EXTINF:-60 group-title="World TV",TNT SPORTS CHILE HD
+http://104.250.128.34/livehttpplay?channel_id=23558
+
+#EXTINF:-60 group-title="World TV",MOVISTAR DEPORTES PERU HD
+http://104.250.128.34/livehttpplay?channel_id=23645
+
+#EXTINF:-60 group-title="World TV",24 HORAS HD (CHILE)
+http://104.250.128.34/livehttpplay?channel_id=23526
+
+#EXTINF:-60 group-title="World TV",CARACOL HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23513
+
+#EXTINF:-60 group-title="World TV",CANAL 1 HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23512
+
+#EXTINF:-60 group-title="World TV",TELEANTIOQUIA HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23532
+
+#EXTINF:-60 group-title="World TV",UNIVERSAL COMEDY HD
+http://104.250.128.34/livehttpplay?channel_id=23550
+
+#EXTINF:-60 group-title="World TV",FOX SPORTS 2 HD ARGENTINA
+http://104.250.128.34/livehttpplay?channel_id=23508
+
+#EXTINF:-60 group-title="World TV",UNIVERSAL CINEMA HD
+http://104.250.128.34/livehttpplay?channel_id=23651
+
+#EXTINF:-60 group-title="World TV",UNIVERSAL CINEMA HD
+http://104.250.128.34/livehttpplay?channel_id=23521
+
+#EXTINF:-60 group-title="World TV",CANAL 1 HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23512
+
+#EXTINF:-60 group-title="World TV",CARACOL HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23513
+
+#EXTINF:-60 group-title="World TV",TIGO SPORTS 1 BO HD
+http://104.250.128.34/livehttpplay?channel_id=23600
+
+#EXTINF:-60 group-title="World TV",ESPN HD 2 ARGENTINA
+http://104.250.128.34/livehttpplay?channel_id=23709
+
+#EXTINF:-60 group-title="World TV",FOX SPORTS 3 HD ARG
+http://104.250.128.34/livehttpplay?channel_id=23703
+
+#EXTINF:-60 group-title="World TV",24 HORAS HD (CHILE)
+http://104.250.128.34/livehttpplay?channel_id=23526
+
+#EXTINF:-60 group-title="World TV",TELEANTIOQUIA HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23532
+
+#EXTINF:-60 group-title="World TV",UNIVERSAL COMEDY HD
+http://104.250.128.34/livehttpplay?channel_id=23652
+
+#EXTINF:-60 group-title="World TV",MOVISTAR DEPORTES PERU HD
+http://104.250.128.34/livehttpplay?channel_id=23645
+
+#EXTINF:-60 group-title="World TV",REDMAS HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23514
+
+#EXTINF:-60 group-title="World TV",AMERICA TV HD PERU
+http://104.250.128.34/livehttpplay?channel_id=23561
+
+#EXTINF:-60 group-title="World TV",CANAL DE FUTBOL HD
+http://104.250.128.34/livehttpplay?channel_id=23553
+
+#EXTINF:-60 group-title="World TV",CARTOON NETWORK HD
+http://104.250.128.34/livehttpplay?channel_id=23506
+
+#EXTINF:-60 group-title="World TV",VENEVISION PLUS HD
+http://104.250.128.34/livehttpplay?channel_id=23727
+
+#EXTINF:-60 group-title="World TV",ESPN 3 HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23518
+
+#EXTINF:-60 group-title="World TV",ESPN HD ARGENTINA
+http://104.250.128.34/livehttpplay?channel_id=23710
+
+#EXTINF:-60 group-title="World TV",CANAL 13 CHILE HD
+http://104.250.128.34/livehttpplay?channel_id=23619
+
+#EXTINF:-60 group-title="World TV",DISCOVERY KIDS HD
+http://104.250.128.34/livehttpplay?channel_id=23507
+
+#EXTINF:-60 group-title="World TV",GOLDEN PLUS MX HD
+http://104.250.128.34/livehttpplay?channel_id=23623
+
+#EXTINF:-60 group-title="World TV",Claro Sports 2 HD
+http://104.250.128.34/livehttpplay?channel_id=23656
+
+#EXTINF:-60 group-title="World TV",TELETICA CANAL 7 COSTA RICA
+http://104.250.128.34/livehttpplay?channel_id=23519
+
+#EXTINF:-60 group-title="World TV",GOLDEN PREMIER HD
+http://104.250.128.34/livehttpplay?channel_id=23648
+
+#EXTINF:-60 group-title="World TV",America TV Arg HD
+http://104.250.128.34/livehttpplay?channel_id=23606
+
+#EXTINF:-60 group-title="World TV",DISNEY CHANELL HD
+http://104.250.128.34/livehttpplay?channel_id=23517
+
+#EXTINF:-60 group-title="World TV",CANAL 13 HD CHILE
+http://104.250.128.34/livehttpplay?channel_id=23524
+
+#EXTINF:-60 group-title="World TV",DIRECTV SPORTS+ HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23539
+
+#EXTINF:-60 group-title="World TV",TELETICA CANAL 7 COSTA RICA
+http://104.250.128.34/livehttpplay?channel_id=23519
+
+#EXTINF:-60 group-title="World TV",TNT SPORTS HD AR
+http://104.250.128.34/livehttpplay?channel_id=23702
+
+#EXTINF:-60 group-title="World TV",ESPN HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23531
+
+#EXTINF:-60 group-title="World TV",TELETICA 7 CR HD
+http://104.250.128.34/livehttpplay?channel_id=23654
+
+#EXTINF:-60 group-title="World TV",IVC HD VENEZUELA
+http://104.250.128.34/livehttpplay?channel_id=23535
+
+#EXTINF:-60 group-title="World TV",TIGO SPORTS 2 HD
+http://104.250.128.34/livehttpplay?channel_id=23601
+
+#EXTINF:-60 group-title="World TV",TIGO SPORTS 3 HD
+http://104.250.128.34/livehttpplay?channel_id=23602
+
+#EXTINF:-60 group-title="World TV",ESPN PRIMIUM HD
+http://104.250.128.34/livehttpplay?channel_id=23700
+
+#EXTINF:-60 group-title="World TV",RCN HD COLOMBIA
+http://104.250.128.34/livehttpplay?channel_id=23515
+
+#EXTINF:-60 group-title="World TV",Claro Sports HD
+http://104.250.128.34/livehttpplay?channel_id=23655
+
+#EXTINF:-60 group-title="World TV",ESPN PREMIUM HD
+http://104.250.128.34/livehttpplay?channel_id=23523
+
+#EXTINF:-60 group-title="World TV",FOOD NETWORK HD
+http://104.250.128.34/livehttpplay?channel_id=23546
+
+#EXTINF:-60 group-title="World TV",CANAL 11 CR SD
+http://104.250.128.34/livehttpplay?channel_id=23647
+
+#EXTINF:-60 group-title="World TV",CANAL 2 HD ESA
+http://104.250.128.34/livehttpplay?channel_id=23731
+
+#EXTINF:-60 group-title="World TV",ESPN2 HD CHILE
+http://104.250.128.34/livehttpplay?channel_id=23560
+
+#EXTINF:-60 group-title="World TV",RCN NOVELAS SD
+http://104.250.128.34/livehttpplay?channel_id=23528
+
+#EXTINF:-60 group-title="World TV",CANAL 4 HD ESA
+http://104.250.128.34/livehttpplay?channel_id=23729
+
+#EXTINF:-60 group-title="World TV",GOL TV ECUADOR
+http://104.250.128.34/livehttpplay?channel_id=23556
+
+#EXTINF:-60 group-title="World TV",CANAL 6 HD ESA
+http://104.250.128.34/livehttpplay?channel_id=23730
+
+#EXTINF:-60 group-title="World TV",ESPN EXTRA HD
+http://104.250.128.34/livehttpplay?channel_id=23505
+
+#EXTINF:-60 group-title="World TV",Adult Swim HD
+http://104.250.128.34/livehttpplay?channel_id=23630
+
+#EXTINF:-60 group-title="World TV",BABY FIRTS HD
+http://104.250.128.34/livehttpplay?channel_id=23509
+
+#EXTINF:-60 group-title="World TV",TELEMETRO PAN
+http://104.250.128.34/livehttpplay?channel_id=23658
+
+#EXTINF:-60 group-title="World TV",NTN 24 HORAS
+http://104.250.128.34/livehttpplay?channel_id=23705
+
+#EXTINF:-60 group-title="World TV",TELEMEDELLIN
+http://104.250.128.34/livehttpplay?channel_id=23707
+
+#EXTINF:-60 group-title="World TV",ON DIRECTV HD
+http://104.250.128.34/livehttpplay?channel_id=23544
+
+#EXTINF:-60 group-title="World TV",ESPN 4 NOR HD
+http://104.250.128.34/livehttpplay?channel_id=23659
+
+#EXTINF:-60 group-title="World TV",CANAL 6 CR SD
+http://104.250.128.34/livehttpplay?channel_id=23663
+
+#EXTINF:-60 group-title="World TV",Bolivision HD
+http://104.250.128.34/livehttpplay?channel_id=23603
+
+#EXTINF:-60 group-title="World TV",Bolivia TV HD
+http://104.250.128.34/livehttpplay?channel_id=23604
+
+#EXTINF:-60 group-title="World TV",ESPN 1 BO HD
+http://104.250.128.34/livehttpplay?channel_id=23629
+
+#EXTINF:-60 group-title="World TV",ESPN 4 BO HD
+http://104.250.128.34/livehttpplay?channel_id=23620
+
+#EXTINF:-60 group-title="World TV",ESPN 3 BO HD
+http://104.250.128.34/livehttpplay?channel_id=23625
+
+#EXTINF:-60 group-title="World TV",ESPN 2 BO HD
+http://104.250.128.34/livehttpplay?channel_id=23628
+
+#EXTINF:-60 group-title="World TV",CHV HD CHILE
+http://104.250.128.34/livehttpplay?channel_id=23500
+
+#EXTINF:-60 group-title="World TV",LIFE TIME HD
+http://104.250.128.34/livehttpplay?channel_id=23530
+
+#EXTINF:-60 group-title="World TV",PX SPORTS HD
+http://104.250.128.34/livehttpplay?channel_id=23543
+
+#EXTINF:-60 group-title="World TV",TV CORTOS HD
+http://104.250.128.34/livehttpplay?channel_id=23545
+
+#EXTINF:-60 group-title="World TV",WinSports HD
+http://104.250.128.34/livehttpplay?channel_id=23548
+
+#EXTINF:-60 group-title="World TV",CNN CHILE HD
+http://104.250.128.34/livehttpplay?channel_id=23557
+
+#EXTINF:-60 group-title="World TV",TLNOVELAS HD
+http://104.250.128.34/livehttpplay?channel_id=23624
+
+#EXTINF:-60 group-title="World TV",GOL PERU HD
+http://104.250.128.34/livehttpplay?channel_id=23554
+
+#EXTINF:-60 group-title="World TV",TV CULTURAS
+http://104.250.128.34/livehttpplay?channel_id=23621
+
+#EXTINF:-60 group-title="World TV",CITY TV SD
+http://104.250.128.34/livehttpplay?channel_id=23527
+
+#EXTINF:-60 group-title="World TV",NICK JR HD
+http://104.250.128.34/livehttpplay?channel_id=23529
+
+#EXTINF:-60 group-title="World TV",TC ECUADOR
+http://104.250.128.34/livehttpplay?channel_id=23541
+
+#EXTINF:-60 group-title="World TV",MEGA TV HD
+http://104.250.128.34/livehttpplay?channel_id=23563
+
+#EXTINF:-60 group-title="World TV",TVN Panama
+http://104.250.128.34/livehttpplay?channel_id=23657
+
+#EXTINF:-60 group-title="World TV",RED UNO HD
+http://104.250.128.34/livehttpplay?channel_id=23622
+
+#EXTINF:-60 group-title="World TV",FUTV CR HD
+http://104.250.128.34/livehttpplay?channel_id=23646
+
+#EXTINF:-60 group-title="World TV",EUROPA HD
+http://104.250.128.34/livehttpplay?channel_id=23536
+
+#EXTINF:-60 group-title="World TV",LATINA HD
+http://104.250.128.34/livehttpplay?channel_id=23562
+
+#EXTINF:-60 group-title="World TV",Unitel HD
+http://104.250.128.34/livehttpplay?channel_id=23605
+
+#EXTINF:-60 group-title="World TV",TD+ CR HD
+http://104.250.128.34/livehttpplay?channel_id=23662
+
+#EXTINF:-60 group-title="World TV",PAT BO HD
+http://104.250.128.34/livehttpplay?channel_id=23626
+
+#EXTINF:-60 group-title="World TV",AMC BO HD
+http://104.250.128.34/livehttpplay?channel_id=23627
+
+#EXTINF:-60 group-title="World TV",TELE CAFE
+http://104.250.128.34/livehttpplay?channel_id=23708
+
+#EXTINF:-60 group-title="World TV",eventos10
+http://104.250.128.34/livehttpplay?channel_id=23724
+
+#EXTINF:-60 group-title="World TV",eventos2
+http://104.250.128.34/livehttpplay?channel_id=23716
+
+#EXTINF:-60 group-title="World TV",eventos1
+http://104.250.128.34/livehttpplay?channel_id=23715
+
+#EXTINF:-60 group-title="World TV",eventos1
+http://104.250.128.34/livehttpplay?channel_id=23715
+#EXTINF:-60 group-title="World TV",eventos2
+http://104.250.128.34/livehttpplay?channel_id=23716
+
+#EXTINF:-60 group-title="World TV",eventos3
+http://104.250.128.34/livehttpplay?channel_id=23717
+
+#EXTINF:-60 group-title="World TV",eventos4
+http://104.250.128.34/livehttpplay?channel_id=23718
+
+#EXTINF:-60 group-title="World TV",eventos5
+http://104.250.128.34/livehttpplay?channel_id=23719
+
+#EXTINF:-60 group-title="World TV",eventos6
+http://104.250.128.34/livehttpplay?channel_id=23720
+
+#EXTINF:-60 group-title="World TV",eventos7
+http://104.250.128.34/livehttpplay?channel_id=23721
+
+#EXTINF:-60 group-title="World TV",eventos8
+http://104.250.128.34/livehttpplay?channel_id=23722
+
+#EXTINF:-60 group-title="World TV",NICK HD
+http://104.250.128.34/livehttpplay?channel_id=23501
+
+#EXTINF:-60 group-title="World TV",MTV 80S
+http://104.250.128.34/livehttpplay?channel_id=23728
+
+#EXTINF:-60 group-title="World TV",HGTV HD
+http://104.250.128.34/livehttpplay?channel_id=23547
+#EXTINF:-60 group-title="World TV",Mega HD
+http://104.250.128.34/livehttpplay?channel_id=23618
+
+#EXTINF:-60 group-title="World TV",TV AGRO
+http://104.250.128.34/livehttpplay?channel_id=23706
+
+#EXTINF:-60 group-title="World TV",backup1
+http://104.250.128.34/livehttpplay?channel_id=23609
+#EXTINF:-60 group-title="World TV",backup2
+http://104.250.128.34/livehttpplay?channel_id=23614
+
+#EXTINF:-60 group-title="World TV",backup3
+http://104.250.128.34/livehttpplay?channel_id=23615
+
+#EXTINF:-60 group-title="World TV",TVN HD
+http://104.250.128.34/livehttpplay?channel_id=23616
+
+#EXTINF:-60 group-title="World TV",backup4
+http://104.250.128.34/livehttpplay?channel_id=23631
+
+#EXTINF:-60 group-title="World TV",backup5
+http://104.250.128.34/livehttpplay?channel_id=23632
+
+#EXTINF:-60 group-title="World TV",backup6
+http://104.250.128.34/livehttpplay?channel_id=23633
+
+#EXTINF:-60 group-title="World TV",backup7
+http://104.250.128.34/livehttpplay?channel_id=23634
+
+#EXTINF:-60 group-title="World TV",backup8
+http://104.250.128.34/livehttpplay?channel_id=23635
+
+#EXTINF:-60 group-title="World TV",backup9
+http://104.250.128.34/livehttpplay?channel_id=23636
+
+#EXTINF:-60 group-title="World TV",backup10
+http://104.250.128.34/livehttpplay?channel_id=23637
+
+#EXTINF:-60 group-title="World TV",backup11
+http://104.250.128.34/livehttpplay?channel_id=23638
+
+#EXTINF:-60 group-title="World TV",backup12
+http://104.250.128.34/livehttpplay?channel_id=23639
+
+#EXTINF:-60 group-title="World TV",backup13
+http://104.250.128.34/livehttpplay?channel_id=23640
+
+#EXTINF:-60 group-title="World TV",backup14
+http://104.250.128.34/livehttpplay?channel_id=23641
+
+#EXTINF:-60 group-title="World TV",backup15
+http://104.250.128.34/livehttpplay?channel_id=23642
+
+#EXTINF:-60 group-title="World TV",backup16
+http://104.250.128.34/livehttpplay?channel_id=23643
+
+
+#EXTINF:-60 group-title="World TV",backup17
+http://104.250.128.34/livehttpplay?channel_id=23637
+
+#EXTINF:-60 group-title="World TV",backup18
+http://104.250.128.34/livehttpplay?channel_id=23638
+
+#EXTINF:-60 group-title="World TV",backup19
+http://104.250.128.34/livehttpplay?channel_id=23639
+
+#EXTINF:-60 group-title="World TV",backup20
+http://104.250.128.34/livehttpplay?channel_id=23640
+
+#EXTINF:-60 group-title="World TV",backup21
+http://104.250.128.34/livehttpplay?channel_id=23641
+
+#EXTINF:-60 group-title="World TV",backup22
+http://104.250.128.34/livehttpplay?channel_id=23642
+
+#EXTINF:-60 group-title="World TV",backup23
+http://104.250.128.34/livehttpplay?channel_id=23643
+
+#EXTINF:-60 group-title="World TV",backup
+http://104.250.128.34/livehttpplay?channel_id=23644
+
+#EXTINF:-60 group-title="World TV",test
+http://104.250.128.34/livehttpplay?channel_id=23714
+
+#EXTINF:-60 group-title="World TV",ATB
+http://104.250.128.34/livehttpplay?channel_id=23607
+
+#EXTINF:-60 group-title="World TV",La Une (1080p)
+http://41.205.93.154/LA-UNE/mpegts
+
+#EXTINF:-60 group-title="World TV",other
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+
